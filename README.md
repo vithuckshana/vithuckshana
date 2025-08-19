@@ -34,7 +34,7 @@
 ## 🌐 Connect With Me
 
 - 📩 **Gmail:** *svithu2002@gmail.com*  <!-- Replace this with your real email -->
-- 💼 **LinkedIn:** [linkedin.com/in/vithuckshana](#)  <!-- Replace with your actual LinkedIn -->
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/vithu-undefined-baa132267/](#)  <!-- Replace with your actual LinkedIn -->
 - 🐙 **[GitHub Portfolio](https://github.com/vithuckshana)**
 
 ---
