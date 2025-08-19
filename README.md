@@ -16,6 +16,12 @@
 
 ---
 
+## 📂 Featured Projects
+
+- [🚀 *GitHub Portfolio*](https://github.com/vithuckshana)  
+  Visit my *GitHub portfolio* for a collection of my projects, contributions, and coding journey.
+
+
 ## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithuckshana&layout=compact&theme=tokyonight)
