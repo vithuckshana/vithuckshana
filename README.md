@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vithuckshana Surenthiren
 
-<!--
-**vithuckshana/vithuckshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student pursuing a **BSc in Information Systems** at **Sabaragamuwa University of Sri Lanka**.
 
-Here are some ideas to get you started:
+💡 I’m passionate about full-stack development, UI/UX design, and exploring new technologies like **Machine Learning** and **Artificial Intelligence**. I enjoy building clean, responsive, and interactive applications — from design to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Java (basic)
+- **UI/UX**: Figma (basic), design principles
+- **Database**: Basic knowledge of SQL and NoSQL databases
+- **Other**: Familiar with concepts in Machine Learning and AI
+
+---
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithuckshana&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Current Goals
+
+- 🌱 Strengthening my skills in **full-stack development** using **React**, **Node.js**, and **Java**  
+- 🎨 Improving my **UI/UX design** abilities to build clean, user-friendly interfaces   
+- 🗃️ Enhancing my understanding of **databases** and **system architecture**  
+- 🚀 Contributing to **open-source projects** and collaborating with the developer community  
+
+---
+
+## 🌐 Connect With Me
+
+- 📩 **Gmail:** *svithu2002@gmail.com*  <!-- Replace this with your real email -->
+- 💼 **LinkedIn:** [linkedin.com/in/vithuckshana](#)  <!-- Replace with your actual LinkedIn -->
+- 🐙 **[GitHub Portfolio](https://github.com/vithuckshana)**
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate 🤝
+
+
